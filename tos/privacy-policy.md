@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Loam Market, Inc ("**Loam**" or "**we**", "**our**", or "**us**") operates a professional job placement platform that uses **real-money prediction markets** to match candidates with employers. Because we handle sensitive employment information and financial transactions, protecting your privacy is essential to our mission. This Privacy Policy explains what information we collect, how we use it, the choices you have, and the rights you can exercise.
+Loam Market, Inc ("**Loam**" or "**we**", "**our**", or "**us**") operates a professional job placement platform that uses **play-money prediction markets** to gather information about candidates and match them with employers. We may provide discretionary real-money rewards for successful placements or accurate assessments. Because we handle sensitive employment information and may process reward payments, protecting your privacy is essential to our mission. This Privacy Policy explains what information we collect, how we use it, the choices you have, and the rights you can exercise.
 
 By using Loam—whether through our website, mobile apps, or any other services we provide (collectively, the "**Services**")—you agree to the terms of this Privacy Policy. If you do not agree, please do not use our Services.
 
@@ -24,7 +24,8 @@ This Privacy Policy applies to personal information processed in connection with
 - **Professional information** – resume, work history, skills, employment preferences, references, and other career-related data.
 - **Employer information** – company details, job requirements, hiring criteria, and organizational information.
 - **Content** – posts, comments, predictions, market questions, candidate evaluations, interview feedback, and any other content you upload or create.
-- **Financial information** – bank account details, payment card information, transaction history, earnings, and withdrawals for real-money rewards.
+- **Play-money balances & transactions** – virtual currency used in prediction markets, trade positions, and market outcomes.
+- **Financial information** – bank account details, payment card information, and transaction history for discretionary reward payments (if applicable).
 - **Communication with us** – requests, feedback, survey responses, and any correspondence with customer support.
 
 ### 3.2 Information We Collect Automatically
@@ -48,14 +49,14 @@ We may receive information about you from:
 
 We process your information to:
 
-1. **Provide and maintain the Services** – create accounts, display job markets, facilitate predictions, process real-money payments and rewards.
-2. **Match candidates with employers** – analyze skills, experience, and market predictions to facilitate successful placements.
-3. **Process financial transactions** – handle deposits, earnings, withdrawals, and tax reporting for real-money rewards.
-4. **Enable evaluation features** – show your professional information and predictions to relevant market participants.
+1. **Provide and maintain the Services** – create accounts, display job markets, facilitate play-money predictions, and process discretionary reward payments.
+2. **Match candidates with employers** – analyze skills, experience, and market information to facilitate successful placements.
+3. **Process reward payments** – handle discretionary reward payments and tax reporting (if applicable) for successful placements or accurate assessments.
+4. **Enable evaluation features** – show your professional information, predictions, and market participation to relevant participants.
 5. **Research & improve** – analyze behavior, test new features, and build aggregate statistics (e.g., prediction accuracy, placement success rates).
 6. **Communicate with you** – send transactional notices, market updates, security alerts, and, with your consent, newsletters or updates.
 7. **Ensure safety & integrity** – detect and prevent fraud, market manipulation, gaming behavior, abuse, and violations of our Terms. **Users found to be consistently wrong or engaging in gambling-like behavior (rather than informed predictions) may be banned from the platform.**
-8. **Comply with legal obligations** – respond to lawful requests, financial regulations, tax requirements, and enforce our agreements.
+8. **Comply with legal obligations** – respond to lawful requests, tax requirements (for rewards), and enforce our agreements.
 
 ---
 
@@ -66,7 +67,7 @@ If you are in the European Economic Area or United Kingdom, we process your pers
 - **Contract** – as necessary to provide the Services you request (Article 6(1)(b) GDPR).
 - **Legitimate interests** – to keep our Services safe, prevent market manipulation, improve our platform, and grow our business, provided those interests are not overridden by your rights (Article 6(1)(f)).
 - **Consent** – for optional uses such as marketing emails or certain cookies (Article 6(1)(a)). You can withdraw consent at any time.
-- **Legal obligation** – where processing is necessary to comply with applicable law, including financial regulations and tax reporting (Article 6(1)(c)).
+- **Legal obligation** – where processing is necessary to comply with applicable law, including tax reporting for rewards (Article 6(1)(c)).
 
 ---
 
@@ -76,8 +77,8 @@ We may share information:
 
 - **With market participants** – your professional qualifications, predictions, and evaluations may be visible to employers, candidates, and other authorized participants in relevant job markets.
 - **Service providers & contractors** – companies that host data, process payments, conduct background checks, send emails, provide analytics or security, and help us operate (bound by confidentiality and data‑protection obligations).
-- **Payment processors** – financial institutions and payment services that handle real-money transactions, earnings, and withdrawals.
-- **Tax authorities** – as required by law to report earnings and financial transactions.
+- **Payment processors** – financial institutions and payment services that handle discretionary reward payments (if applicable).
+- **Tax authorities** – as required by law to report reward payments that meet tax reporting thresholds.
 - **Compliance & safety** – to comply with laws, respond to legal process, prevent fraud or market manipulation, protect our users, or defend our rights.
 - **Business transfers** – in connection with a merger, acquisition, bankruptcy, or sale of assets; we will notify you of changes.
 
@@ -89,7 +90,7 @@ We **never** sell your personal information for money.
 
 - **Access & portability** – request a copy of your data.
 - **Correction** – update or correct inaccurate information.
-- **Deletion** – delete your account or ask us to erase certain data (subject to legal retention requirements for financial records).
+- **Deletion** – delete your account or ask us to erase certain data (subject to legal retention requirements for reward payment records).
 - **Limit or object** – restrict processing under certain circumstances.
 - **Withdraw consent** – opt out of marketing emails or specific cookies.
 - **Do Not Track** – we do not respond to browser DNT signals at this time.
@@ -113,13 +114,13 @@ You can control cookies through your browser settings and mobile OS permissions;
 
 ## 9. Data Retention
 
-We keep your personal data only as long as necessary for the purposes described in this Policy, unless a longer retention is required by law. **Financial transaction records are retained for at least seven years to comply with tax and financial regulations.** After account deletion, we typically erase or anonymize non-financial data within 30 days, except backups and logs retained for security and compliance.
+We keep your personal data only as long as necessary for the purposes described in this Policy, unless a longer retention is required by law. **Reward payment records are retained for at least seven years to comply with tax regulations.** After account deletion, we typically erase or anonymize non-payment data within 30 days, except backups and logs retained for security and compliance.
 
 ---
 
 ## 10. Security
 
-We implement administrative, technical, and physical safeguards to protect your information, including encryption in transit and at rest, access controls, fraud detection systems, and regular security audits. Given the financial nature of our Services, we employ enhanced security measures to protect your payment information and prevent market manipulation. No system is 100% secure; we encourage you to use strong passwords and enable two‑factor authentication.
+We implement administrative, technical, and physical safeguards to protect your information, including encryption in transit and at rest, access controls, fraud detection systems, and regular security audits. We employ security measures to protect your payment information (for rewards) and prevent market manipulation. No system is 100% secure; we encourage you to use strong passwords and enable two‑factor authentication.
 
 ---
 

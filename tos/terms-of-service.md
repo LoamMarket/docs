@@ -12,7 +12,7 @@ The information provided on the Site is not intended for distribution to or use 
 
 The Site is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Site. You may not use the Site in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-The Site is intended for users who are at least 18 years of age. All users must be legal adults in the jurisdiction in which they reside to participate in real-money predictions and transactions.
+The Site is intended for users who are at least 18 years of age. All users must be legal adults in the jurisdiction in which they reside.
 
 **2. INTELLECTUAL PROPERTY RIGHTS**
 
@@ -22,24 +22,24 @@ Provided that you are eligible to use the Site, you are granted a limited licens
 
 **3. USER REPRESENTATIONS**
 
-By using the Site, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Terms of Use; (4) you are at least 18 years of age and a legal adult in your jurisdiction; (5) you will not access the Site through automated or non-human means, whether through a bot, script or otherwise; (6) you will not use the Site for any illegal or unauthorized purpose, including gambling; (7) your use of the Site will not violate any applicable law or regulation; (8) you understand that participation involves real money and financial risk; and (9) you will participate in good faith with informed predictions based on genuine assessment rather than gambling or guessing.
+By using the Site, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Terms of Use; (4) you are at least 18 years of age and a legal adult in your jurisdiction; (5) you will not access the Site through automated or non-human means, whether through a bot, script or otherwise; (6) you will not use the Site for any illegal or unauthorized purpose, including gambling; (7) your use of the Site will not violate any applicable law or regulation; and (8) you will participate in good faith with informed predictions based on genuine assessment rather than gambling or guessing.
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
 
 **4. USER REGISTRATION**
 
-You are required to register with the Site to participate in prediction markets. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable. You must provide accurate identification and payment information to participate in real-money transactions.
+You are required to register with the Site to participate in prediction markets. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable. If you receive rewards, you must provide accurate identification and payment information.
 
 **5. NATURE OF THE PLATFORM**
 
 **5.1 Professional Assessment Platform**
 
-Loam operates a professional job placement platform that uses prediction markets to evaluate candidates and match them with employers. **This is not a gambling platform.** The platform is designed for:
+Loam operates a professional job placement platform that uses **play-money prediction markets** to gather information about candidates and facilitate matches with employers. **This is not a gambling platform, and the prediction markets are not derivatives or financial instruments.** The platform is designed for:
 
 - Informed professional assessment of candidate skills and fit
-- Data-driven matching between candidates and employers
-- Rewarding expertise and accurate professional judgment
+- Data-driven information gathering through market mechanisms
 - Facilitating successful employment placements
+- Optionally rewarding successful placements or accurate assessments
 
 **5.2 Prohibition on Gambling Behavior**
 
@@ -52,41 +52,53 @@ Loam operates a professional job placement platform that uses prediction markets
 
 **We actively monitor prediction patterns and accuracy. Users found to be consistently wrong, guessing, or engaging in gambling-like behavior will be warned and may be permanently banned from the platform. This is essential to maintaining the integrity and professional nature of our marketplace.**
 
-**5.3 Real Money Rewards**
+**5.3 Play-Money Markets and Discretionary Rewards**
 
-Unlike play-money platforms, Loam uses real money to reward accurate predictions and successful placements. Participants who demonstrate expertise in evaluating candidates and matching them with employers earn real money based on their accuracy. This financial incentive is designed to encourage serious, informed participation and reward genuine professional insight.
+The prediction markets on the Site use **play money with no cash value**. Market positions and outcomes do not entitle you to any payment or reward. The play-money markets exist solely to aggregate information and facilitate candidate assessment.
 
-**6. FINANCIAL TRANSACTIONS AND PAYMENTS**
+**Separately and independently from market performance**, we may, at our sole discretion, provide real-money rewards for successful job placements or accurate candidate assessments. Any such rewards:
 
-We accept the following forms of payment:
+- Are entirely discretionary and at our sole determination
+- Are not directly tied to, derived from, or determined by prediction market positions or outcomes
+- May take into account various factors including placement success, assessment quality, and platform contribution
+- Create no contractual right or expectation of payment
+- Are subject to verification and our reward policies
 
-● Visa
-● Mastercard
-● Discover
-● American Express
-● Bank Transfer (ACH)
+**The prediction markets are informational tools only and are not financial instruments, derivatives, or securities.**
 
-You agree to provide current, complete, and accurate purchase and account information for all transactions made via the Site. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. All payments shall be in U.S. dollars.
+**6. PLAY-MONEY VIRTUAL CURRENCY**
 
-**6.1 Real Money Transactions**
+**6.1 Virtual Currency ("Loam Dollars")**
 
-1. **Real Currency.** The Site uses real money for predictions, rewards, and payments. All transactions involve actual financial value and risk.
+1. **Play-Money Only.** The Site employs a points-based virtual currency called **"Loam Dollars"** or similar. This virtual currency is provided solely for informational and assessment purposes within the Site. It is **not** legal tender, electronic money, a security, a commodity, or any other instrument with intrinsic or monetary value.
 
-2. **Deposits and Withdrawals.** Users may deposit funds to participate in prediction markets and withdraw earnings according to our withdrawal policies. Minimum deposit and withdrawal amounts may apply.
+2. **No Cash Value or Redemption.** Loam Dollars have zero cash or redeemable value. They may not be bought, sold, traded, transferred, gifted, or exchanged—whether on the Site or elsewhere—for money, property, products, services, or any other consideration. **Virtual currency balances and market positions do not entitle you to any payment or reward.**
 
-3. **Earnings and Rewards.** Users earn real money based on the accuracy of their predictions and successful job placements. Earnings are subject to verification and may be adjusted for market manipulation or fraud.
+3. **License, Not Ownership.** All virtual currency remains the sole property of Loam Market, Inc. You receive only a limited, revocable license to use virtual currency in accordance with these Terms; you acquire no vested or proprietary interest in the currency itself.
 
-4. **Fees.** We may charge transaction fees, platform fees, or service fees as disclosed at the time of transaction.
+4. **Modification or Discontinuation.** We reserve the right to credit, debit, modify, expire, or eliminate virtual currency balances (or the virtual currency program as a whole) at any time, with or without notice, and without liability to you.
 
-5. **Tax Reporting.** Earnings may be subject to tax reporting requirements. Users are responsible for reporting and paying all applicable taxes on earnings. We will issue tax forms as required by law (e.g., Form 1099 for U.S. users).
+5. **Not Subject to Financial Regulations.** Because virtual currency is strictly play money with no monetary value, it is not subject to financial-services or gambling regulations, and the prediction markets are not financial instruments or derivatives.
 
-6. **Financial Regulations.** The Site operates in compliance with applicable financial regulations. We are not a gambling platform and are not subject to gambling regulations. Our platform facilitates professional assessment and job placement, not games of chance.
+**6.2 Discretionary Rewards**
 
-7. **Risk Disclosure.** Participation in prediction markets involves financial risk. You may lose money you deposit. Past performance does not guarantee future results. Participate only with funds you can afford to lose.
+1. **Separate from Markets.** Independently from and unrelated to prediction market positions or outcomes, we may, at our sole and absolute discretion, provide real-money rewards for successful job placements or accurate candidate assessments.
 
-**7. REFUNDS POLICY**
+2. **No Entitlement.** Rewards are entirely discretionary. Participation in prediction markets, market positions, virtual currency balances, and market outcomes create no right, entitlement, or expectation of any reward or payment.
 
-Deposits are generally non-refundable once placed into predictions. Withdrawals of unallocated funds may be processed according to our withdrawal policy. Earnings are subject to verification before withdrawal.
+3. **Reward Criteria.** If we choose to provide rewards, we will determine reward amounts and recipients based on factors that may include (but are not limited to) placement success, assessment quality, platform contribution, and other criteria at our sole discretion.
+
+4. **Payment Methods.** If you receive a reward, we may disburse it via bank transfer, payment service, or other method we determine. You must provide accurate payment information.
+
+5. **Tax Reporting.** Rewards may be subject to tax reporting requirements. You are responsible for reporting and paying all applicable taxes on any rewards received. We will issue tax forms as required by law (e.g., Form 1099 for U.S. recipients).
+
+6. **Verification and Adjustment.** All rewards are subject to verification. We may adjust, withhold, or reclaim rewards if we determine there was fraud, market manipulation, error, or violation of these Terms.
+
+7. **No Guarantee.** We make no guarantee that any user will receive rewards. Past rewards do not create any expectation of future rewards.
+
+**7. NO PURCHASE NECESSARY**
+
+No purchase, payment, or deposit is required to participate in the prediction markets or to be eligible for discretionary rewards (if any). The play-money prediction markets are free to use.
 
 **8. PROHIBITED ACTIVITIES**
 
@@ -132,9 +144,11 @@ As a user of the Site, you agree not to:
 
 ● Sell or otherwise transfer your profile.
 
-● Engage in market manipulation, including wash trading, spoofing, or other fraudulent trading practices.
+● Engage in market manipulation, including wash trading, spoofing, collusion, or other fraudulent practices.
 
 ● Engage in gambling behavior, including making uninformed predictions, consistently inaccurate predictions, or guessing rather than informed professional assessment.
+
+● Attempt to treat prediction markets as financial instruments, derivatives, or securities, or engage in activities suggesting such treatment.
 
 ● Create multiple accounts to circumvent bans or restrictions.
 
@@ -185,8 +199,8 @@ We reserve the right to suspend or terminate your account immediately, without p
 
 Upon suspension or termination:
 - Your access to the Site will be immediately revoked
-- Pending withdrawals may be processed, delayed, or forfeited depending on the nature of the violation
-- Funds involved in fraudulent activity will be forfeited
+- Virtual currency balances will be forfeited
+- Pending discretionary rewards may be withheld or forfeited depending on the nature of the violation
 - We reserve the right to pursue legal action for significant violations
 
 You are prohibited from creating a new account if your account has been terminated for cause.
@@ -233,7 +247,7 @@ If the Parties are unable to resolve a Dispute through informal negotiations, th
 
 THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE'S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THIS SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE.
 
-**WE DO NOT GUARANTEE THAT PARTICIPATION IN PREDICTION MARKETS WILL RESULT IN EARNINGS OR SUCCESSFUL JOB PLACEMENTS. PAST PERFORMANCE DOES NOT GUARANTEE FUTURE RESULTS. YOU ACKNOWLEDGE THAT FINANCIAL LOSS IS POSSIBLE.**
+**WE DO NOT GUARANTEE THAT PARTICIPATION IN PREDICTION MARKETS WILL RESULT IN REWARDS, PAYMENTS, OR SUCCESSFUL JOB PLACEMENTS. PREDICTION MARKET POSITIONS AND VIRTUAL CURRENCY HAVE NO CASH VALUE. ANY REWARDS ARE ENTIRELY DISCRETIONARY AND CREATE NO ENTITLEMENT OR EXPECTATION OF PAYMENT. PAST REWARDS DO NOT GUARANTEE FUTURE REWARDS.**
 
 **20. LIMITATIONS OF LIABILITY**
 
@@ -241,7 +255,7 @@ IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR A
 
 **21. INDEMNIFICATION**
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Site; (3) breach of these Terms of Use; (4) any breach of your representations and warranties set forth in these Terms of Use; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; (6) any overt harmful act toward any other user of the Site with whom you connected via the Site; (7) any financial losses incurred by others due to your inaccurate predictions or fraudulent activity; or (8) violation of any applicable financial regulations or tax laws.
+You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Site; (3) breach of these Terms of Use; (4) any breach of your representations and warranties set forth in these Terms of Use; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; (6) any overt harmful act toward any other user of the Site with whom you connected via the Site; (7) fraudulent activity or market manipulation; or (8) violation of any applicable tax laws related to rewards received.
 
 **22. USER DATA**
 
